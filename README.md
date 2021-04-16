@@ -11,4 +11,5 @@ My experience with the technologies are listed below in the toolbox
 </div>
 
 ---
-## 
+## Toolbox:  
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width=80 height=50> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width=50 height=50>
