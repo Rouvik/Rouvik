@@ -2,4 +2,15 @@
 
 ---
 ## Social:  
-<a href="mailto: majirouvik@gmail.com">![Gmail](https://img.shields.io/static/v1?style=for-the-badge&color=brightgreen&message=Gmail&logo=Gmail)</a> <a href="https://discord.gg/STfKRKtZtS">![Discord](https://img.shields.io/static/v1?style=for-the-badge&color=brightgreen&message=Discord&logo=Discord)</a>
+<a href="mailto: majirouvik@gmail.com">![Gmail](https://img.shields.io/static/v1?style=for-the-badge&color=brightgreen&message=Gmail&logo=Gmail)</a> <a href="https://discord.gg/STfKRKtZtS">![Discord](https://img.shields.io/static/v1?style=for-the-badge&color=brightgreen&message=Discord&logo=Discord)</a>  
+
+<div>
+A student learning various technologies in multiple languages like JS, HTML, CSS, C++, Node, etc.
+
+I usually work with few projects, usually web development with JavaScript and Node but I am also interested to try out new things
+
+My experience with the technologies are listed below in the toolbox
+</div>
+
+---
+## 
