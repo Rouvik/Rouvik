@@ -2,4 +2,4 @@
 
 ---
 ## Social:  
-<a href="mailto: majirouvik@gmail.com">![Gmail](https://img.shields.io/static/v1?style=for_the_badge&color=brightgreen&message=Gmail&logo=Gmail)</a><a href="https://discord.gg/STfKRKtZtS">![Discord](https://img.shields.io/static/v1?style=for_the_badge&color=brightgreen&message=Discord&logo=Discord)</a>
+<a href="mailto: majirouvik@gmail.com">![Gmail](https://img.shields.io/static/v1?style=for-the-badge&color=brightgreen&message=Gmail&logo=Gmail)</a> <a href="https://discord.gg/STfKRKtZtS">![Discord](https://img.shields.io/static/v1?style=for-the-badge&color=brightgreen&message=Discord&logo=Discord)</a>
