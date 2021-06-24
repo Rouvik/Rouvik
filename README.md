@@ -12,7 +12,7 @@ My experience with the technologies are listed below in the toolbox
 
 ---
 ## Toolbox:  
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width=80 height=50 alt="NodeJS"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width=50 height=50 alt="JavaScript"> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width=50 height=50 alt="HTML5"> <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" width=50 height=50 alt="CSS"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width=50 height=50 alt="Java"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width=50 height=50 alt="C++">
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width=80 height=50 alt="NodeJS"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width=50 height=50 alt="JavaScript"> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" width=50 height=50 alt="HTML5"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width=50 height=50 alt="Java"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width=50 height=50 alt="C++">
 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rouvik&theme=tokyonight)  
