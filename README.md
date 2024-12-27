@@ -17,4 +17,4 @@ My experience with the technologies are listed below in the toolbox
 
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rouvik&theme=tokyonight)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rouvik&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rouvik&theme=radical)
