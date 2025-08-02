@@ -20,7 +20,7 @@ I prefer working on a few meaningful projects at a time, often experimenting and
 🛠 Always building. Always learning.
 
 # Portfolio Page:
-<iframe src="https://rouvik.github.io" width="100%" height="460"></iframe>
+[![My Portfolio](./assets/portfolio.png)](https://rouvik.github.io)
 
 ## Toolbox:  
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width=80 height=50 alt="NodeJS"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width=50 height=50 alt="JavaScript"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=50 height=50 alt="HTML5"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width=50 height=50 alt="Java"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width=50 height=50 alt="C++">
@@ -28,3 +28,9 @@ I prefer working on a few meaningful projects at a time, often experimenting and
 [![Rouvik’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rouvik&theme=transparent&show_icons=true&text_bold=false&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rouvik&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rouvik&theme=transparent)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://rouvik.github.io/Rouvik/github-snake-dark.svg?palette=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://rouvik.github.io/Rouvik/github-snake.svg" />
+  <img alt="github-snake" src="https://rouvik.github.io/Rouvik/github-snake.svg" />
+</picture>
