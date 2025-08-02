@@ -29,8 +29,4 @@ I prefer working on a few meaningful projects at a time, often experimenting and
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rouvik&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rouvik&theme=transparent)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://rouvik.github.io/Rouvik/github-snake-dark.svg?palette=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://rouvik.github.io/Rouvik/github-snake.svg" />
-  <img alt="github-snake" src="https://rouvik.github.io/Rouvik/github-snake.svg" />
-</picture>
+![Animated GitHub Contribution Snake](https://rouvik.github.io/Rouvik/github-contribution-grid-snake-dark.svg)
