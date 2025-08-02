@@ -1,20 +1,30 @@
-# Hi there, I am Rouvik Maji <img src="https://github.com/Rouvik/Rouvik/blob/8a3a378a19fb63016cfa2c5fa6019d53492681e6/Assets/heart.gif">
+![Rouvik Maji Ison sheild](./assets/gh.png)
 
----
-## Social:  
+# Hey there, I am Rouvik Maji! 👋
+Aspiring Software Engineer | Low Level Programmer | OS & Emulator Enthusiast
+
+I love exploring the intersection of low-level systems, computer architecture, and software engineering. From building custom operating systems and emulators to diving into compilers, networking, and reverse engineering — I'm always up for a challenge that pushes me closer to the metal.
+
+~ "Code is the closest thing we have to magic." ✨
+
+## Socials:
 <a href="mailto: majirouvik@gmail.com">![Gmail](https://img.shields.io/static/v1?style=for-the-badge&color=brightgreen&message=Gmail&logo=Gmail)</a>
 
-## About me:  
-<div>
-A student learning various technologies in multiple languages like JS, HTML, CSS, Java, C++, Node, etc.  <br><br>
-I work with very few projects, usually web development with JavaScript and Node but I am also interested to try out new things  <br><br>
-My experience with the technologies are listed below in the toolbox
-</div>
+## About me:
+Hi, I'm Rouvik Maji — a passionate student and aspiring software engineer who loves building things from scratch and diving deep into how systems work.
 
----
+I explore a wide range of technologies and languages including JavaScript, Node.js, HTML/CSS, Java, C++, and more. While I started with web development, my interests have grown into areas like systems programming, OS development, emulators, and low-level architecture.
+
+I prefer working on a few meaningful projects at a time, often experimenting and learning as I go. Whether it’s crafting a web app with Node.js or writing a kernel in Assembly, I’m always excited to learn something new and push my limits.
+
+🛠 Always building. Always learning.
+
+# Portfolio Page:
+<iframe src="https://rouvik.github.io" width="100%" height="460"></iframe>
+
 ## Toolbox:  
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width=80 height=50 alt="NodeJS"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width=50 height=50 alt="JavaScript"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width=50 height=50 alt="HTML5"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width=50 height=50 alt="Java"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width=50 height=50 alt="C++">
 
----
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rouvik&theme=tokyonight)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rouvik&theme=radical)
+[![Rouvik’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rouvik&theme=transparent&show_icons=true&text_bold=false&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rouvik&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rouvik&theme=transparent)
