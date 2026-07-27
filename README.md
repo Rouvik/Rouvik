@@ -53,8 +53,8 @@ Click to visit ⬆️
 ![System Specs](./assets/system-spec.png)
 
 # Stats:
-[![Rouvik’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rouvik&theme=transparent&show_icons=true&text_bold=false&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rouvik&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Streak](https://streak-stats.demolab.com/?user=rouvik&theme=transparent)
+[![Rouvik’s GitHub stats](https://github-stats-extended.vercel.app/api?username=rouvik&theme=transparent&show_icons=true&text_bold=false&rank_icon=percentile)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=rouvik&theme=transparent&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rouvik&theme=transparent)](https://git.io/streak-stats)
 
 ![Animated GitHub Contribution Snake](https://rouvik.github.io/Rouvik/github-contribution-grid-snake-dark.svg)
